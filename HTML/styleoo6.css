@@ -1,0 +1,12 @@
+.trang_tri1 {
+    text-align: right;
+    background: yellow;
+    text-indent: 100px;
+}
+.trang_tri2 {
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+.trang_tri3 {
+    text-shadow: blue 2px 3px 4px, red 2px 3px 1px;
+}
